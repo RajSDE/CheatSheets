@@ -1,5 +1,14 @@
-# Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=AyeRaj" alt="Visitor badge"/></p>
-<img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visiter&color=0e75b6&style=flat" alt="AyeRaj" />
+# Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=AyeRaj" alt="Visitor badge"/></p> 
+I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with my own experience & skills...
+Web Development,
+- FrontEnd: React.js | HTML, CSS, JavaScript
+- BackEnd: Django | Node.js
+- Database: MongoDB | OracleSQL
+    - Android Application Development
+    - Coding Skills in Java (DSA)
+    - Additional Skills: JavaScript & Python
+
+<img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visiters&color=0e75b6&style=flat" alt="AyeRaj" />
 
 ## My Skills 🛠
 
