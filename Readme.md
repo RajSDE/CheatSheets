@@ -41,13 +41,6 @@ I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with
 
 <br/>
 
-<<<<<<< HEAD
 ## Connect with me 🤝
-=======
-## Connect with me
-
->>>>>>> 091e997a222d1d1031611954d20f789252b46c44
 [![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/AyeRaj) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
-
-
 
