@@ -10,10 +10,6 @@ I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with
 - Android Application Development
 - Coding Skills in Java (DSA)
 - Additional Skills: JavaScript & Python
-<<<<<<< HEAD
-
-=======
->>>>>>> 091e997a222d1d1031611954d20f789252b46c44
 
 
 ## My Skills 🛠
