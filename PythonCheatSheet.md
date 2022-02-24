@@ -1,8 +1,9 @@
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=python" alt="Visitor badge"/>
 
 # <p align="center"> Welcome🙏🏻 </p> 
-# Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+# Hi, I'm Raj!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayerajkumar/)
 ![Monty Python](https://gto76.github.io/python-cheatsheet/web/image_888.jpeg)
 
 Python Cheatsheet
