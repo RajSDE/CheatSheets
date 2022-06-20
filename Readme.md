@@ -1,11 +1,11 @@
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=AyeRaj" alt="Visitor badge"/>
 
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj!👋
-I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with my own experience & skills...
+I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
 - Web Development,
-    - FrontEnd: React.js | HTML, CSS, JavaScript
-    - BackEnd: Django | Node.js
+    - FrontEnd: HTML, CSS, JavaScript
+    - BackEnd: Django
     - Database: MongoDB | OracleSQL
 - Android Application Development
 - Coding Skills in Java (DSA)
@@ -19,7 +19,7 @@ I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  
